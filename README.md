@@ -1,95 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Jaswanth%20S%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20AI%20that%20speaks%20your%20language&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/banner.svg" alt="JAZZ: Press Start. Neon arcade banner with a Tamil Nadu skyline" width="100%"/>
 
-<a href="https://github.com/mailtojaswanthss-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C5CFF&center=true&vCenter=true&width=600&lines=Student+%7C+Builder+%7C+Tinkerer;Multilingual+RAG+%2B+Tanglish+%F0%9F%87%AE%F0%9F%87%B3;AI+Chess+Coaching+%E2%99%9F%EF%B8%8F;Java+%C2%B7+Python+%C2%B7+TypeScript" alt="Typing SVG" />
+<a href="https://jazz-portfolio-two.vercel.app">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=19F0FF&center=true&vCenter=true&width=760&height=46&lines=PLAYER+1+%3A+JASWANTH+S+S+%28JAZZ%29;2ND-YEAR+CSE+%28AI+%26+ML%29+%40+SRM;OPEN+TO+AI%2FML+INTERNSHIPS;I+BUILD+MODELS+AND+THE+APPS+AROUND+THEM" alt="Typing animation" />
 </a>
 
-![Profile views](https://komarev.com/ghpvc/?username=mailtojaswanthss-svg&style=for-the-badge&color=7c5cff)
-![Followers](https://img.shields.io/github/followers/mailtojaswanthss-svg?style=for-the-badge&logo=github&color=24292e)
-
+[![Play the portfolio](https://img.shields.io/badge/▶_PLAY_MY_PORTFOLIO-FF2E88?style=for-the-badge&logoColor=white)](https://jazz-portfolio-two.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthss)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtojaswanthss@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Jazz716)
+
+![Profile views](https://komarev.com/ghpvc/?username=mailtojaswanthss-svg&style=for-the-badge&color=7b2ff7&label=PLAYERS+VISITED)
+![Followers](https://img.shields.io/github/followers/mailtojaswanthss-svg?style=for-the-badge&logo=github&color=0e1a24&label=P2+FOLLOWERS)
 
 </div>
 
 ---
 
-### 👋 Hey, I'm Jaswanth
+## 🕹️ PLAYER SELECT
 
-- 🎓 Student at **SRM**, exploring AI, full-stack and systems
-- 🔭 Currently building **[pakkam](https://github.com/mailtojaswanthss-svg/pakkam)**: cited answers on Indian government schemes in many languages, including Tanglish
-- ♟️ Also into chess + ML with **[ChessWise](https://github.com/mailtojaswanthss-svg/chess-project)**
-- 🌱 Learning: RAG evaluation, LLM apps, TypeScript
-- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/jaswanthss)
-- 📫 Reach me: [mailtojaswanthss@gmail.com](mailto:mailtojaswanthss@gmail.com)
+```text
+ NAME      : Jaswanth S S  ("Jazz")
+ CLASS     : AI & ML engineer in training
+ GUILD     : SRM · CSE (AI & ML) · class of 2029
+ HOME      : Salem, Tamil Nadu
+ LANGUAGES : Tamil, English (learning Malayalam, Japanese)
+ RIG       : RTX 4060 laptop
+ STATUS    : OPEN TO AI/ML INTERNSHIPS
+```
+
+> **Plan A:** pole vault, cancelled by COVID.
+> **Plan B:** *"Tony Stark built his future in a cave."* So I built mine on a laptop. 🦾
+
+```text
+ XP  ██████████████░░░░░░  LEVEL: still grinding
+ ❤️ SLEEP   ❤️ BUGS   ❤️ DEADLINE        (3 lives, all in use)
+```
 
 ---
 
-### 🌱 Always learning
+## 🎯 LEVEL 1: QUESTS
 
-> *"I don't know it yet", just means I haven't built something with it yet.* 🔨
+### ⭐ Featured boss: [Pakkam](https://github.com/mailtojaswanthss-svg/pakkam) · *"No page, no answer."*
 
-| 📚 Topic | Progress | Status |
+Voice RAG for government schemes in **Tamil, Tanglish, Hindi and English**, and every answer comes with the official page as proof. Built for the **Great Indian AI Internship Challenge 2026** (Gnani.ai), with Mohit K on design and frontend.
+
+| 🎯 Correct citations | 🚫 Out-of-scope refused | 💬 Live questions | ✅ Tests in CI |
+|:---:|:---:|:---:|:---:|
+| **98%** (133/136) | **98%** (39/40) | **194** | **651** |
+
+Built with **Qdrant** hybrid search (BGE-M3), a reranker, refusal below a confidence threshold, and voice through Gnani.
+
+[![Live](https://img.shields.io/badge/▶_LIVE-19F0FF?style=for-the-badge&labelColor=05090d)](https://pakkam-alpha.vercel.app)
+[![Code](https://img.shields.io/badge/{_}_CODE-B8FF3D?style=for-the-badge&labelColor=05090d&logoColor=white)](https://github.com/mailtojaswanthss-svg/pakkam)
+
+### 🗡️ Side quests
+
+| Quest | Pitch | Loot |
 |---|---|---|
-| RAG & LLM evaluation | ![](https://geps.dev/progress/65) | 🔥 Deep in it (pakkam) |
-| TypeScript & React | ![](https://geps.dev/progress/50) | 🏗️ Building ChessWise |
-| Machine learning for games | ![](https://geps.dev/progress/40) | ♟️ Blunder prediction |
-| Data structures & algorithms | ![](https://geps.dev/progress/55) | 🧩 Daily practice |
-| System design & cloud | ![](https://geps.dev/progress/25) | 🌤️ Just getting started |
-
-**🎯 My learning loop:** `read it` → `break it` → `build something` → `ship it` → `repeat` 🔁
-
-**🧪 Currently exploring:** multilingual NLP · vector databases · agentic AI · deploying on Vercel & Supabase
+| ♟️ [**ChessWise**](https://github.com/mailtojaswanthss-svg/chess-project) | Predicts your blunder *before* you play it | scikit-learn · Stockfish · FastAPI · React/TypeScript · [live](https://chesswise-ai.vercel.app) |
+| 🧪 [**OPE Lab**](https://github.com/mailtojaswanthss-svg/ope-lab) | Causal ML: six off-policy estimators side by side, with an honesty rule | Python · 36 tests |
+| ⚡ [**Smart Energy Dashboard**](https://github.com/mailtojaswanthss-svg/smart-energy-dashboard) | Energy usage dashboard | React · JavaScript · Python |
 
 ---
 
-### 🎲 Fun facts
+## 🎒 LEVEL 2: LOADOUT
 
-- ♟️ I teach machines chess, and still lose to them
-- 🗣️ I care that AI works in **Tamil, Tanglish and more**, not just English
-- 🐛 Debugging is my favourite way to learn: every bug is a free lesson
-- ☕ Fueled by curiosity (and chai)
-
-### 🤝 Let's talk about
-
-Open to **collaborations, hackathons, internships and study groups**. Ask me about RAG, chess + AI, or how I'm learning in public. 🚀
-
----
-
-### 🚀 Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🗣️ [**pakkam**](https://github.com/mailtojaswanthss-svg/pakkam) | Multilingual RAG giving cited answers on Indian government schemes, with per-language evaluation | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| ♟️ [**ChessWise**](https://github.com/mailtojaswanthss-svg/chess-project) | Adaptive AI chess coach with blunder-risk prediction | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| ⚡ [**smart-energy-dashboard**](https://github.com/mailtojaswanthss-svg/smart-energy-dashboard) | Dashboard for monitoring and auditing energy usage | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| ✨ [**promptverse**](https://github.com/mailtojaswanthss-svg/promptverse) | A playground for prompts | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
-
----
-
-### 🛠️ Tech stack
+| 🧠 AI & ML | ⚙️ Backend | 🎨 Frontend | 🧰 Tools |
+|---|---|---|---|
+| Qdrant · BGE-M3 · reranking · scikit-learn · Stockfish | Python · FastAPI | React · TypeScript · Next.js · JavaScript | Git · Vercel · Hugging Face |
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-### 📊 GitHub stats
+## 🏆 LEVEL 3: TROPHY ROOM
+
+- 🥉 **3rd place**, BizzBoss (Datakon)
+- 🇮🇳 **Great Indian AI Internship Challenge 2026**: built Pakkam for it
+- 🎤 Stage speaker at FIITJEE Global School
+- 🎖️ School Pupil Leader · hostel events lead
+
+---
+
+## 👾 FINAL BOSS: LEGACY CODE
+
+```text
+ LEGACY CODE  ████████████████████  HP 100%
+ ─────────────────────────────────────────
+ [1] Write tests   [2] Benchmark   [3] Refactor
+ [4] Deploy  (only after tests = CRITICAL HIT)
+ [5] Music break  (one-time heal 🎧)
+ boss move: "Merge conflict!"
+```
+
+*Still undefeated: DSA. We're training.* 🥊
+
+---
+
+## 🎧 PLAYER 1 TRIVIA
+
+- 🕷️ Heroes: Spider-Man · Iron Man · Batman
+- 🎮 Plays: Clash of Clans · RDR2 · GTA V
+- 🎶 Playlist: Ilaiyaraaja · A. R. Rahman
+- 🌱 Always learning: Malayalam, Japanese, and whatever the next project needs
+
+<!-- 🥚 easter egg unlocked: type "vanakkam" on the portfolio and it answers in Tamil. -->
+
+---
+
+## 📊 SCOREBOARD
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mailtojaswanthss-svg&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailtojaswanthss-svg&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mailtojaswanthss-svg&show_icons=true&hide_border=true&bg_color=0e1a24&title_color=ff2e88&icon_color=19f0ff&text_color=e8f1f2&ring_color=b8ff3d" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailtojaswanthss-svg&layout=compact&hide_border=true&bg_color=0e1a24&title_color=ff2e88&text_color=e8f1f2" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mailtojaswanthss-svg&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mailtojaswanthss-svg&hide_border=true&background=0e1a24&ring=ff2e88&fire=ffc72c&currStreakLabel=19f0ff&sideLabels=e8f1f2&currStreakNum=e8f1f2&sideNums=e8f1f2&dates=8fa7b3" />
 
 </div>
 
@@ -97,8 +133,11 @@ Open to **collaborations, hackathons, internships and study groups**. Ask me abo
 
 <div align="center">
 
-*"Talk is cheap. Show me the code."* ✌️
+### Player 2, press start? ▶
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+[![Open the portfolio](https://img.shields.io/badge/▶_JAZZ:_PRESS_START-19F0FF?style=for-the-badge&labelColor=05090d)](https://jazz-portfolio-two.vercel.app)
+[![Connect](https://img.shields.io/badge/-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanthss)
+
+<sub>© Jazz · made in Salem</sub>
 
 </div>
